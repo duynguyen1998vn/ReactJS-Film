@@ -1,0 +1,1 @@
+Day la Folder chua cac component global

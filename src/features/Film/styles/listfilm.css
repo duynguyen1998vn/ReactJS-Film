@@ -1,0 +1,39 @@
+#card {
+    margin-bottom: 40px;
+    animation: 1.5s lineV;
+    height: 30rem;
+    position: relative;
+}
+
+.btn-follow{
+    position: absolute;
+    bottom: 0;
+}
+
+#card:hover {
+    transform: scale(1.06 );
+    transition: all 0.2s ease-in;
+    cursor: pointer;
+}
+
+@keyframes lineV {
+    from {
+        bottom: -70%;
+    }
+    to {
+        bottom: 0%;
+    }
+}
+
+.link-film{
+    text-decoration: none;
+}
+
+.card-image{
+   height: 20em;
+}
+
+.card-body {
+    
+}
+

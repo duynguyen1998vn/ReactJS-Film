@@ -1,0 +1,38 @@
+.div-form {
+    height: 42rem;
+    background-image: url('https://i.pinimg.com/originals/b0/eb/41/b0eb41bdb91e75f326a0b1056fa088c6.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.box-form{
+    width: 50%;
+    margin: 5rem auto;
+}
+
+span{
+    color: red;
+}
+
+h3{
+    color:green;
+    padding-top: 5rem;
+    font-weight: bolder ;
+    font-size: 50px;
+}
+
+#btn-login {
+    background-color: green;
+    width: 5rem;
+    float: left;
+}
+
+#btn-sign-up{
+    background-color: cornflowerblue;
+    display: inline-block;
+}
+
+.input{
+    margin: 0 auto;
+}
